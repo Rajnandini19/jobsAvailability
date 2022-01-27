@@ -1,0 +1,27 @@
+@import "../../scss/variables/_colors";
+@import "../../scss/variables/_fonts";
+@import "../../scss/variables/_spacing";
+
+.inputCont {
+  width: 100%;
+  background-color: $brand-white;
+  padding: $spacing-regular;
+  position: absolute;
+  bottom: -40px;
+  border-radius: $spacing-small;
+}
+
+.form {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: $font-regular;
+}
+
+.button {
+  background-color: $brand-primary;
+  padding: $spacing-regular;
+  color: $brand-white;
+  border: 0px;
+  border-radius: 4px;
+}
