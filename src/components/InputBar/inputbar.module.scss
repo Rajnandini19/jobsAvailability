@@ -1,27 +1,55 @@
-@import "../../scss/variables/_colors";
-@import "../../scss/variables/_fonts";
-@import "../../scss/variables/_spacing";
+// @import "../../scss/variables/_colors";
+// @import "../../scss/variables/_fonts";
+// @import "../../scss/variables/_spacing";
+// @import "//netdna.bootstrapcdn.com/font-awesome/3.0/css/font-awesome.css";
 
-.inputCont {
-  width: 100%;
-  background-color: $brand-white;
-  padding: $spacing-regular;
-  position: absolute;
-  bottom: -40px;
-  border-radius: $spacing-small;
-}
+// .inputCont {
+//   width: 100%;
+//   background-color: $brand-white;
+//   padding: $spacing-regular;
+//   position: absolute;
+//   bottom: -40px;
+//   border-radius: $spacing-small;
+// }
 
-.form {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  font-size: $font-regular;
-}
+// .form {
+//   display: flex;
+//   flex-direction: row;
+//   justify-content: space-between;
+//   align-items: center;
+//   font-size: $font-regular;
 
-.button {
-  background-color: $brand-primary;
-  padding: $spacing-regular;
-  color: $brand-white;
-  border: 0px;
-  border-radius: 4px;
-}
+// }
+// .title
+// {
+// padding:10px;
+// width:35%;
+// border-width:0 1px 0 0;
+// border-color: #dddddd;
+// }
+// .location
+// {
+// padding:10px;
+// width:35%;
+// border-width: 0;
+// }
+// .button {
+//   background-color: $brand-primary;
+//   padding: $spacing-regular;
+//   color: $brand-white;
+//   border: 0px;
+//   border-radius: 4px;
+//   width: 100px;
+// }
+
+// @media only screen and (max-width: 600px)
+// {
+//   .form {
+//     display: flex;
+//     flex-direction: column;
+//     justify-content: space-between;
+//     align-items: center;
+//     font-size: $font-regular;
+  
+//   }
+// }
